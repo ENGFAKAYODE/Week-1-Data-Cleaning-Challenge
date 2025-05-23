@@ -1,8 +1,6 @@
 # Data-Cleaning-Power-Query
 Excel, Power Query Project
-
-# Data-Cleaning-Power-Query
-Excel, Power Query Project
+![image](https://github.com/user-attachments/assets/301a0352-a51f-400a-8aaa-5f626841a310)
 
 # Week 1 Data Challenge — Data Cleaning & Transformation
 
