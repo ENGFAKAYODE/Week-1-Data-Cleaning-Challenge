@@ -1,0 +1,42 @@
+INSTRUCTIONS
+(Make a Copy of the spreadsheet or download as an excel filel before cleaning)
+Kindly do not request edit access
+This data contains 5,000 rows with 6 columns. Your task is to clean this dataset and prepare it for analysis. Below are the instructions and key questions to guide your cleaning process
+
+1. Full Name
+- Standardize name formatting (proper case).
+- Remove leading/trailing/multiple spaces.
+- Ensure consistent spelling for same individuals and handle the duplicates (if duplicates exist).
+
+2. Age
+- Convert all age entries to numeric values.
+- Handle entries like 'thirty', 'NaN', np.nan appropriately - change thirty to number, pay attention to the numbers that inform the others.
+- Remove or impute missing or invalid ages.
+
+3. Email
+- Ensure and validate  that the emails are in the right formats.
+- Identify and correct common mistakes (e.g., double @, missing domains).
+- Lowercase all emails and remove blanks or nulls.
+
+4. Join Date
+- Convert all date formats into a standard DD-MMM-YYYY.
+- Handle invalid or missing date entries.
+- Consider deriving a new column: Years of Service.
+
+5. Department
+- Standardize department names (e.g., HR, hr, Hr → HR).
+- Handle null or missing values.
+- Check for typos and harmonize department labels.
+
+6. Salary
+- Convert all salary values to numeric
+- Remove characters like k, ,, and handle NaN, unknown, None.
+- Ensure all salaries are in a uniform currency and format.
+
+
+When you are done with the data cleaning, answer the question
+ 1. What is the Average Age? 
+2. What is the Total Salary? 
+
+
+Be creative with the cleaning and the post writing,,,, GOODLUCK!!
