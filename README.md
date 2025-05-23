@@ -29,7 +29,7 @@ This process wasn’t just about code — it was about uncovering the story behi
 - [Project Structure](#project-structure)  
 - [Contributing](#contributing)  
 - [License](#license)  
-- [Contact](#contact)
+- [Conclusion](#conclusion)
 
 ---
 
