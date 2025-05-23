@@ -24,8 +24,7 @@ This process wasn’t just about code — it was about uncovering the story behi
 
 - [Project Overview](#project-overview)  
 - [Data Cleaning, Transformation & Insights](#data-cleaning-transformation--insights)  
-- [Project Structure](#project-structure)  
-- [before and after cleaning](#before-and-after-cleaning)  
+- [Before And After Cleaning](#Before-and-after-cleaning)  
 - [Insights Generated](#insights-generated)  
 - [Conclusion](#conclusion)
 
