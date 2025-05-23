@@ -119,3 +119,7 @@ After cleaning and preparing the dataset, several key insights emerged:
 
 - **Data Quality Reflection:**  
   The cleaning process uncovered common data entry errors and inconsistencies, underscoring the importance of data governance.
+
+## Conclusion
+
+This project went beyond technical cleaning — it was about respecting the data’s story, maintaining its meaning, and preparing it for actionable insights. By standardizing and validating each field thoughtfully, the dataset is now a trustworthy source for further analysis and decision-making.
