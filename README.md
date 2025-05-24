@@ -68,6 +68,7 @@ The dataset underwent a thorough cleaning and transformation process to ensure c
 7. **Join Date Parsing**  
    - Converted text-based dates to valid date formats  
    - Replaced invalid dates with nulls for transparency
+   - Standardized all date formats to DD-MMM-YYYY.
 
 8. **Department Name Standardization**  
    - Capitalized department names uniformly  
