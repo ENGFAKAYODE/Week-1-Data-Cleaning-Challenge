@@ -87,18 +87,16 @@ The dataset underwent a thorough cleaning and transformation process to ensure c
     - Retained or imputed values as appropriate  
     - Avoided blind deletion to preserve data integrity and story
 
+
 ## Before and After Cleaning
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/dbc49520-0c85-479c-895e-04aaa3675168" alt="Messy Data" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/5d761940-1e82-439f-8bcd-ea2a4432e72b" alt="Cleaned Data" width="400"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Messy Data</b></td>
-    <td align="center"><b>Cleaned Data</b></td>
-  </tr>
-</table>
+
+| Messy Data | Cleaned Data |
+|:------------:|:--------------:|
+| ![Messy Data](https://github.com/user-attachments/assets/dbc49520-0c85-479c-895e-04aaa3675168) | ![Cleaned Data](https://github.com/user-attachments/assets/5d761940-1e82-439f-8bcd-ea2a4432e72b) |
+
+
+
 
 ---
 
