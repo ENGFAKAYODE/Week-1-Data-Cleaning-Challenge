@@ -12,7 +12,7 @@ Welcome to my Week 1 Data Challenge repository! In this project, I embarked on a
 
 This process wasn’t just about code — it was about uncovering the story behind every value and preparing the dataset to deliver trustworthy insights that truly matter.
 
-> *Special thanks and shoutout to [@Ifunanya Gabriel](https://github.com/IfunanyaGabriel) for the challenge!*
+> *Special thanks and shoutout to [[@Ifunanya Gabriel](https://github.com/IfunanyaGabriel)](https://www.linkedin.com/in/ifunanya-gabriel/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BqHB6I%2BQ2QL%2BTAZEL7lalEg%3D%3D) for the challenge!*
 
 **Hashtags:**  
 #datachallengewithIfunanyaGabriel  
